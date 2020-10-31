@@ -1,4 +1,4 @@
-# cmustudent-repository
+# ChanyaJirakawinvanich-repository
 My portfolio page.
 
 # About me
