@@ -16,4 +16,6 @@ I hope to learn how to turn data into a visualization that can communicate to pe
 
 # Portfolio
 
+Here's a list of my interesting works!
+
 [Project1: Government Debt visualization](GovernmentDebt.md)
