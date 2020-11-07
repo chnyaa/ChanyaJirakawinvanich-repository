@@ -15,4 +15,5 @@ In my free time, I love to play drum sets and travel.
 I hope to learn how to turn data into a visualization that can communicate to people in a simple and understandable way.
 
 # Portfolio
-Project 1: [Government Debt visualization](Government Debt.md)
+
+[Government Debt visualization](GovernmentDebt.md)
