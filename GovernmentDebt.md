@@ -21,9 +21,10 @@ I also added the title, description text, and source of information on top of th
 ## Visualization 3: Dot plot
 
 I choose dot plot to represent the debt information because I can show the data in 3 dimensions.
-    1. X-axis: to display the time period
-    2. Y-axis: to display each country name
-    3. Sizes of the dot: to represent the value of deb-to-GDP ratio
+
+1. X-axis: to display the time period
+2. Y-axis: to display each country name
+3. Sizes of the dot: to represent the value of deb-to-GDP ratio
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/4272926"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
