@@ -7,3 +7,4 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/4272729"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 3: 
+<div class="flourish-embed flourish-scatter" data-src="visualisation/4272926"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
