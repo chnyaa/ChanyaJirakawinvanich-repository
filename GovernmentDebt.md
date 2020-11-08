@@ -34,7 +34,7 @@ For the bar chart, it cannot show the data in a time-series format due to the re
 
 For the line chart, it is easy to understand the trend of Debt-to-GDP ratio for each country during a time period because the graphs are shown separately. However, it is hard if you want to compare this ratio county-by-county each year. Additionally, the title and description that I added could be more concise and meaningful.
 
-The dot plot is an evolvement of my understanding of the data and the problems, which occurred in the previous chart. In this graph, it can show both the Debt-to-GDP ratio for each country during a time period and also county-by-county comparison. I also edited the title and description to add more specific detail such as the year of the data. Besides, I add the description of dot sizes to avoid misunderstanding.
+The dot plot is an evolvement of my understanding of the data and the problems, which occurred in the previous chart. In this graph, it can show both the Debt-to-GDP ratio for each country during a time period and also county-by-county comparison. I also edited the title and description to add more specific detail such as the year of the data. Besides, I add the description of dot sizes to avoid misunderstanding. Last but not least, I use the same colors across the chart because I don't want to create confusion since I already use different sizes of the dot.
 
 
 
