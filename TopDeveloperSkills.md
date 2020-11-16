@@ -31,7 +31,7 @@ I also design on how to use the colors which are
 
 Therefore, I am mixing the chart type and color usage, which resulted in 4 different styles of the chart. The headline for all charts also has changed to be more concise. Also, the symbols are replaced with the programming language name to avoid confusion in a wider group of audiences. Then I present all those charts and ask for feedback. The general feedback is very good. People understand the core message of the graph immediately and did not found any major confusion in these new redesign charts.
 
-The two popular charts that people selected are a pie chart using a different set of colors and a bar chart using the same color. 
+The two popular charts that people selected are a pie chart using a different set of colors and a bar chart using the same color(the final chart that will shown in the next section). 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4360672"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
