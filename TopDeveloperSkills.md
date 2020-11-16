@@ -35,7 +35,7 @@ The two popular charts that people selected are a pie chart using a different se
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4360672"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-According to feedback, people still think that this pie chart contains too much color. Additionally, it is hard to spot the differences if percentage since it is pretty close, so it is not pop out immediately.
+According to feedback, people still think that this pie chart contains too much color. Additionally, it is hard to spot the differences of percentage through the pie size since it is pretty similar, so it is not pop out immediately.
 
 While for the bar chart, which will see in the next section is easier to understand since the bars are sort from the highest to lowest percentage.  Besides, using only one color made the graph cleaner. That is why we select the bar chart for our final chart.
 
