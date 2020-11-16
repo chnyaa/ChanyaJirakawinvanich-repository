@@ -14,7 +14,7 @@ Noted that I found this interesting chart through Google search. Therefore, I on
 
 ### Critique process
 
-By going through Data Visualization Effectiveness Profile, Intuitiveness, Truthfulness, and Perceptability concept led me to think about the redesign the most. Here are some insights that I found and want to make changes.
+By going through Data Visualization Effectiveness Profile, Intuitiveness, Truthfulness, and Perceptability are three concepts that led me to think about the redesign the most. Here are some insights that I found and want to make changes.
 1. Intuitiveness: This chart is very difficult to understand since some symbols are not clearly labeled. Moreover, a linear graph is usually used to display change over time as a series of data points connected by a line whereas it does not apply to the percentage proportion.
 2. Truthfulness: By distributed the percentage evenly without followed the actual precision in X-axis, create confusion for me. It inaccurately represents the data. 
 3. Perceptibility: Using a linear graph to represent the proportion percentage is misleading. It is hard to understand that there is no meaning regarding the location of symbols whether it is above or below the line.
