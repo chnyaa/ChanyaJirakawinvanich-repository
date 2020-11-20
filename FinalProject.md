@@ -31,7 +31,7 @@ All of these data will be downloaded into excel/CSV file and uploaded to create 
 For data about impact and suggestions are listed here.
 
 * https://ageingasia.org/ageing-population-thailand/
-* https://science.sciencemag.org/content/346/6209/587.full)
+* https://science.sciencemag.org/content/346/6209/587.full
 
 <u>Method and medium:</u>
 
