@@ -20,6 +20,8 @@ In this storytelling project, I plan to use several charts.
 3. Pie chart/ Donut chart: To show population by age group, dependency ratio over a period of time
 4. Number and Icon: To show the life expectancy 
 
+![Telling stories-9](https://user-images.githubusercontent.com/33304924/99755700-6c58b000-2ab9-11eb-9576-7a6bee74005a.jpg)
+
 <u>Data:</u>
 
 Below is the data that is used for visualization.
