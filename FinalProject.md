@@ -11,7 +11,7 @@ This project will talk about the aging society trend that is rising in Thailand 
 
 I want to portray this story in a top-down approach starting from the aging society trend around the world then move to Asia and Thailand. I will talk about the life expectancy of people, population by age group, dependency ratio. Next, I will include the birth rate and death rate as well. After people are aware of this upcoming trend, I will move to the impact part that illustrates how this trend affects society. Lastly, my call to action will divide into two parts. Firstly, I want the readers to go back and take good care of their parents that are getting older every day. Secondly, I hope that the readers will reach out and help an organization or nursing home that takes care of the homeless elderly.
 
-<u>Initial sketches:</u>
+### Initial sketches
 
 In this storytelling project, I plan to use several charts.
 
@@ -22,7 +22,7 @@ In this storytelling project, I plan to use several charts.
 
 ![Telling stories-9](https://user-images.githubusercontent.com/33304924/99755700-6c58b000-2ab9-11eb-9576-7a6bee74005a.jpg)
 
-<u>Data:</u>
+### Data
 
 Below is the data that is used for visualization.
 All of these data will be downloaded into excel/CSV file and uploaded to create a visualization.
@@ -42,6 +42,6 @@ For data about impact and suggestions are listed here.
 * [https://ageingasia.org/ageing-population-thailand/](https://ageingasia.org/ageing-population-thailand/)
 * [https://science.sciencemag.org/content/346/6209/587.full](https://science.sciencemag.org/content/346/6209/587.full)
 
-<u>Method and medium:</u>
+### Method and medium
 
 I plan to use 'Shorthand' as the main storytelling tool. Apart from the text section, I will integrate media such as the chart created by 'Flourish.studio', pictures, and videos to enrich the experience of my readers.
