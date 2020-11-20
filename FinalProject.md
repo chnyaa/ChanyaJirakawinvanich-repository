@@ -13,6 +13,14 @@ I want to portray this story in a top-down approach starting from the aging soci
 
 <u>Initial sketches:</u>
 
+In this storytelling project, I plan to use several charts.
+
+1. Map: To show the changes of aging society trend around the world and in Asia
+2. Line chart: To show the aging society trend in Thailand over a period of time
+3. Pie chart/ Donut chart: To show population by age group
+4. Stacked bar chart: To show dependency ratio over a period of time
+5. Number and Icon: To show the life expectancy 
+
 <u>Data:</u>
 
 Below is the data that is used for visualization.
