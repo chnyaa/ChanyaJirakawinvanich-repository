@@ -70,9 +70,9 @@ I plan to use 'Shorthand' as the main storytelling tool. Apart from the text sec
 
 | Audience  | Description |
 | ------------- | ------------- |
-| Target Audience | Content Cell  |
+| Target Audience | Resident citizen of Thailand who is during their working-age, which is 15-64 years old especially who have an elderly in their family.|
 | Interviewee detail  | <ul><li>1. a male MBA student, 27 years old</li><li>2. a male PhD(Human computer interaction) student, 31 years old</li><li>3. a female Heinz(Public policy) student, 33 years old</li></ul>|
-| Criteria for selecting interviewee  | Content Cell  |
+| Criteria for selecting interviewee  | <ul><li>1. All my interviewees are from Thailand since this story wants to raise awareness of an aging problem that occurred in Thailand.</li><li>  2. I try to diversify their academic background, so the feedback comes from a different perspective; business aspects, policy aspects, technology aspects.</li></ul>|
 
 
 #### Research goal 
