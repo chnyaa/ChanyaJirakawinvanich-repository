@@ -71,9 +71,9 @@ I plan to use 'Shorthand' as the main storytelling tool. Apart from the text sec
 | Audience  | Description |
 | ------------- | ------------- |
 | Target Audience | Content Cell  |
-| Interviewee detail  | 1. a male MBA student, 27 years old
-                        2. a male PhD(Human computer interaction) student, 31 years old
-                        3. a female Heinz(Public policy) student, 33 years old|
+| Interviewee detail  | 1. a male MBA student, 27 years old 
+2. a male PhD(Human computer interaction) student, 31 years old 
+3. a female Heinz(Public policy) student, 33 years old|
 | Criteria for selecting interviewee  | Content Cell  |
 
 
