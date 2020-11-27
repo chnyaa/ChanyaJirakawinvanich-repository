@@ -64,6 +64,8 @@ I plan to use 'Shorthand' as the main storytelling tool. Apart from the text sec
 * Page 7: My first call-to-action will focus on a personal level, which is for the reader to go back and take good care of their parents that are getting older every day.
 * Page 8: This last page will talk about the second call-to-action, which is for a reader to reach out and help an organization or nursing home that takes care of the homeless elderly.
 
+Noted that the graph shown in Storyboard is created by the author using the real data set.
+
 ### User research and interviews
 
 #### Target Audience
