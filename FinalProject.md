@@ -46,7 +46,7 @@ For data about impact and suggestions are listed here.
 
 I plan to use 'Shorthand' as the main storytelling tool. Apart from the text section, I will integrate media such as the chart created by 'Flourish.studio', pictures, and videos to enrich the experience of my readers.
 
-## Part I
+## Part II
 
 ### Storyboard
 
@@ -64,3 +64,4 @@ I plan to use 'Shorthand' as the main storytelling tool. Apart from the text sec
 * Page 7: My first call-to-action will focus on a personal level, which is for the reader to go back and take good care of their parents that are getting older every day.
 * Page 8: This last page will talk about the second call-to-action, which is for a reader to reach out and help an organization or nursing home that takes care of the homeless elderly.
 
+### User research and interviews
