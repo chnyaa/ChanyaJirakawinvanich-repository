@@ -65,3 +65,7 @@ I plan to use 'Shorthand' as the main storytelling tool. Apart from the text sec
 * Page 8: This last page will talk about the second call-to-action, which is for a reader to reach out and help an organization or nursing home that takes care of the homeless elderly.
 
 ### User research and interviews
+
+#### Target Audience
+
+#### Research goal 
