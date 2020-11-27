@@ -50,6 +50,11 @@ I plan to use 'Shorthand' as the main storytelling tool. Apart from the text sec
 
 ### Storyboard
 
+![Telling stories-13](https://user-images.githubusercontent.com/33304924/100418061-156e5000-3050-11eb-89c0-f22964c16d2e.jpg)
+![Telling stories-14](https://user-images.githubusercontent.com/33304924/100418086-1f904e80-3050-11eb-8c68-2e3a5c10b369.jpg)
+![Telling stories-15](https://user-images.githubusercontent.com/33304924/100418113-2c14a700-3050-11eb-97b7-6d831e2369aa.jpg)
+![Telling stories-16](https://user-images.githubusercontent.com/33304924/100418132-346ce200-3050-11eb-86a3-e952d53e21b5.jpg)
+
 * Page 1: This page aims to grab user attention through a catchy word as well as a strong appearance of elder.
 * Page 2: Through a top-down approach, this first graph portrays a big picture of this story, which is the rising world aging society trend. I want to raise awareness that this trend is something very close to everyone and might affect the reader in the short term.
 * Page 3: On this page, I want to focus on the aging society in Thailand. The graph shows the significant increase in the older generation over the prediction in the future.
