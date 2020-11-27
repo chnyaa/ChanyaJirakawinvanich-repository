@@ -24,4 +24,4 @@ Click to see...
 
 [Project2: Redesign Top 10 developer skills visualization](TopDeveloperSkills.md)
 
-[Final Project Part I: Aging Society in Thailand](FinalProject.md)
+[Final Project: Aging Society in Thailand](FinalProject.md)
