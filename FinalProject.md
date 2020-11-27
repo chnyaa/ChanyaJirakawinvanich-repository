@@ -45,3 +45,17 @@ For data about impact and suggestions are listed here.
 ### Method and medium
 
 I plan to use 'Shorthand' as the main storytelling tool. Apart from the text section, I will integrate media such as the chart created by 'Flourish.studio', pictures, and videos to enrich the experience of my readers.
+
+## Part I
+
+### Storyboard
+
+* Page 1: This page aims to grab user attention through a catchy word as well as a strong appearance of elder.
+* Page 2: Through a top-down approach, this first graph portrays a big picture of this story, which is the rising world aging society trend. I want to raise awareness that this trend is something very close to everyone and might affect the reader in the short term.
+* Page 3: On this page, I want to focus on the aging society in Thailand. The graph shows the significant increase in the older generation over the prediction in the future.
+* Page 4: Then, the story will dig deep into the population by age group in Thailand during 2009-2019 as well as the dependency ratio. The support context here will highlight that the working-age will need to work harder since they need to support the rise of the elderly group. Moreover, the number of working-age will decrease in contrast to the elder that increased.
+* Page 5: This page will emphasize that this trend will last long due to the drop in birth rate as well as the rise in the birth rate. Also, this page will show the life expectancy of people in Thailand.
+* Page 6: On this page, it will summarize the impact of the aging society. So, it can smoothly lead to the call-to-action on the next page.
+* Page 7: My first call-to-action will focus on a personal level, which is for the reader to go back and take good care of their parents that are getting older every day.
+* Page 8: This last page will talk about the second call-to-action, which is for a reader to reach out and help an organization or nursing home that takes care of the homeless elderly.
+
