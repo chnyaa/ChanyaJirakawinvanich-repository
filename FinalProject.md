@@ -71,16 +71,16 @@ I plan to use 'Shorthand' as the main storytelling tool. Apart from the text sec
 | Audience  | Description |
 | ------------- | ------------- |
 | Target Audience | <ul><li>Resident citizen of Thailand who is during their working-age, which is 15-64 years old especially who have an elderly in their family.</li></ul>|
-| Interviewee detail  | <ul><li>A male MBA student, 27 years old</li><li>A male PhD(Human computer interaction) student, 31 years old</li><li>A female Heinz(Public policy) student, 33 years old</li></ul>|
+| Interviewee detail  | <ul><li>A male MBA student, 27 years old</li><li>A male PhD (Human computer interaction) student, 31 years old</li><li>A female Heinz (Public policy) student, 33 years old</li></ul>|
 | Criteria for selecting interviewee  | <ul><li>All my interviewees are from Thailand since this story wants to raise awareness of an aging problem that occurred in Thailand.</li><li>I try to diversify their academic background, so the feedback comes from a different perspective; business aspects, policy aspects, technology aspects.</li></ul>|
 
 
 #### Research goal 
 
-| Goal  | Question | Answer |
+| Goal  | Question | Feedback |
 | ------------- | ------------- | ------------- |
-| Relevance of the information | 	<ul><li>How each topic connect to each other?</li><li>Do this piece of information is required and support the storyline?</li></ul>| ------------- |
-| Emotional appeal  | <ul><li>Do the first page grab your attention?</li><li>What is the overall tone of this story</li></ul>| ------------- |
+| Relevance of the information | 	<ul><li>How each topic connect to each other?</li><li>Do this piece of information is required and support the storyline?</li></ul>| <ul><li>Each topic support the other well.</li><li> The dependency ratio is redundant to the population by age group. Also, the dependency ratio calculates using (people who 0-14 years old + 65 years and older) / (Working age which is 15-64 years old). The calculation is confusing because it is not only the relationship between older and working people. The result can bias toward the additional percentage from the younger generation.</li></ul> |
+| Emotional appeal  | <ul><li>Do the first page grab your attention?</li><li>What is the overall tone of this story</li></ul>| <ul><li>The image and wording on the first page show the sadness and suffering of a man regarding this issue and aging problem.</li><li> The overall tone is serious and urges the urgency of this urgency.</li></ul>|
 | Comprehension  | <ul><li>Do you have any questions about the data presented?</li><li>Did you find any graphics confusing?</li></ul>| ------------- |
 | Intention  | <ul><li>Would aware that you need to go back and take good care of your parents that are getting older every day?</li><li>Would you reach out and help an organization or nursing home that takes care of the homeless elderly?</li></ul>| ------------- |
 | Improvement  | <ul><li>What would you change about this story?</li></ul>  | ------------- |
