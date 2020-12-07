@@ -96,3 +96,8 @@ Here are the graphs in a detailed view.
 
 The changes I am plan on implementing to my final visualizations is from the above feedback column.
 
+## Part III
+
+### Audience
+
+### Project summary
