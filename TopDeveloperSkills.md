@@ -1,4 +1,4 @@
-# Assignment 3 & 4: Critique by Design
+# Redesign Top develoer skills chart
 
 ## Exisiting data visualization
 
