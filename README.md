@@ -4,7 +4,7 @@ This is my public portfolio for the Telling Stories with Data class at CMU!
 # About me
 My name is Chanya Jirakawinvanich :)
 
-![IMG_3278 4](https://user-images.githubusercontent.com/33304924/101536293-ce456080-3967-11eb-95eb-c1bb2b933ad8.JPG)
+![IMG_3278 4](https://user-images.githubusercontent.com/33304924/101536731-66434a00-3968-11eb-8a76-1727f2bdc126.JPG)
 
 Currently, I am studying for my master's degree at Carnegie Mellon University in Information System Management. I have finished my undergraduate degree back in my home country, Thailand, at Chulalongkorn University in Information and Communication Engineering.
 
