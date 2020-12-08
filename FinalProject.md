@@ -101,9 +101,11 @@ The changes I am plan on implementing to my final visualizations is from the abo
 ### Audience
 
 Apart from my previously defined target audience, who are Thai citizen around 15-64 years old especially who have an elderly in their family. After going through my own story, I want to be more specific. Thus, I divide those aforementioned groups into 3 sub-levels. 
-1.Individual level
-2.Organization level
-3.Government level
+
+1. Individual level
+2. Organization level
+3. Government level
+
 So, each level has its customized call-to-action and is more relatable to the story.
 
 ### Project summary
