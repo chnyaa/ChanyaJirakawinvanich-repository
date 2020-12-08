@@ -1,4 +1,4 @@
-# Project2: Redesign Top 10 developer skills visualization
+# Project 2: Redesign Top 10 developer skills visualization
 
 ## Exisiting data visualization
 
