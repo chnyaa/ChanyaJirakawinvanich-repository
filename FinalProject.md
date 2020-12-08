@@ -125,6 +125,6 @@ To sum up, this deliverable is created using an integration of Shorthand, Flouri
 
 #### Feel free to check out my final project.
 
-[https://preview.shorthand.com/sVMoRErfUDoz4hAM](https://preview.shorthand.com/sVMoRErfUDoz4hAM)
+[https://carnegiemellon.shorthandstories.com/aging-society-in-thailand/index.html](https://carnegiemellon.shorthandstories.com/aging-society-in-thailand/index.html)
 
 Hope you all enjoy it!
