@@ -122,3 +122,8 @@ I would like to point out several changes that have not been mentioned in the fe
 * Call-to-action: After trying to find a suitable call-to-action that is appropriate to a wider group of readers, I end up dividing it into 3 levels. Moreover, I cater more specific and actionable ideas for them to take into consideration based on which of the 3 roles that they feel relatable. Also, I add the example to organizations for the elderly and the link to their website. These example aims to reinforce the awareness that I have been raised throughout the story and connect readers with the real solution that they can participate in.
 
 To sum up, this deliverable is created using an integration of Shorthand, Flourish studio, and Tableau. The main purpose of doing this project is to raise awareness of the Aging society trend in Thailand that has increased significantly. The creator also wants to highlight how the trend impacts Thai people as well as how can we make the situation better. Lastly, I hope this project could be a small voice in a society that can make the changes and create a better Thai society.
+
+Feel free to check out my final project.
+Hope you all enjoy it!
+
+[https://preview.shorthand.com/sVMoRErfUDoz4hAM](tps://preview.shorthand.com/sVMoRErfUDoz4hAM)
