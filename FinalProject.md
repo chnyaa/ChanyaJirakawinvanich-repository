@@ -109,3 +109,14 @@ Apart from my previously defined target audience, who are Thai citizen around 15
 So, each level has its customized call-to-action and is more relatable to the story.
 
 ### Project summary
+
+The core story is the same as I discussed in part 1.
+
+However, this final deliverable has been changed based on the feedback I collected from the interview as well as from myself after iterating through the story for plenty of time.
+
+I would like to point out several changes that have not been mentioned in the feedback part yet. 
+* The use of color: The first half of the deliverable starting with dim colors (grey, white, and blue) to show the urgency and seriousness of the issue. Then there is a transition to a brighter color such as yellow to show hope and the possibility of resolving the issue. I intentionally set this tone and leverage the color to engage with the reader's feelings.
+
+* The story connector: According to the interviewees, they said that my story is lack of supported reason for each data as well as a connection between each page. Thus, I add why? page and try to incorporate more reasoning to strengthen the connection and decision in the story.
+
+* Call-to-action: After trying to find a suitable call-to-action that is appropriate to a wider group of readers, I end up dividing it into 3 levels. Moreover, I cater more specific and actionable ideas for them to take into consideration based on which of the 3 roles that they feel relatable. Also, I add the example to organizations for the elderly and the link to their website. These example aims to reinforce the awareness that I have been raised throughout the story and connect readers with the real solution that they can participate in.
