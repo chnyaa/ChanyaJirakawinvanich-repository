@@ -1,4 +1,4 @@
-# Government Debt visualization
+# Project 1: Government Debt visualization
 
 These 3 visualization is based on the general government debt information of OECD countries.
 
