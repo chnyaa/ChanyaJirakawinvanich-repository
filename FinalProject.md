@@ -126,4 +126,4 @@ To sum up, this deliverable is created using an integration of Shorthand, Flouri
 Feel free to check out my final project.
 Hope you all enjoy it!
 
-[https://preview.shorthand.com/sVMoRErfUDoz4hAM](tps://preview.shorthand.com/sVMoRErfUDoz4hAM)
+[https://preview.shorthand.com/sVMoRErfUDoz4hAM](https://preview.shorthand.com/sVMoRErfUDoz4hAM)
