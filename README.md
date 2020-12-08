@@ -22,8 +22,8 @@ Here's a list of my interesting works!
 
 Click to see... 
 
-[Project1: Government Debt visualization](GovernmentDebt.md)
+[Project 1: Government Debt visualization](GovernmentDebt.md)
 
-[Project2: Redesign Top 10 developer skills visualization](TopDeveloperSkills.md)
+[Project 2: Redesign Top 10 developer skills visualization](TopDeveloperSkills.md)
 
 [Final Project: Aging Society in Thailand](FinalProject.md)
