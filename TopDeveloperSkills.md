@@ -1,4 +1,4 @@
-# Redesign Top develoer skills chart
+# Redesign Top 10 developer skills visualization
 
 ## Exisiting data visualization
 
